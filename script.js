@@ -71,17 +71,17 @@ function animation3(){
         }
     })
     
-    gsap.to(".lemon1", {
-        rotate: "7200deg",
+   gsap.to(".lemon1", {
+        rotate: "129600deg",
         repeat: -1,
-        duration: 5,
+        duration: 150,
         ease: "none"
     });
     
     gsap.to(".lemon2", {
-        rotate: "7200deg",
+        rotate: "129600deg",
         repeat: -1,
-        duration: 5,
+        duration: 150,
         ease: "none"
     });
     
